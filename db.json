@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "first category",
-      items: [
+      "items": [
         {
           "id": 1,
           "title": "first cat - first item"
