@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "first category",
+      items: [
+        {
+          "id": 1,
+          "title": "first cat - first item"
+        },
+        {
+          "id": 2,
+          "title": "first cat - secodn item"
+        }
+      ]
+     }
+   ]
+ }
